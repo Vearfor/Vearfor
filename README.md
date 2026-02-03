@@ -29,6 +29,7 @@
     El código actualmente no funciona en los ordenadores actuales.
     Esta en una máquina virtual con Windows-95.
     El juego permitía sustituir los combates con dados por combates 'reales-simulados' entre ejercitos.
+        ![Cypher](/ScreenShots/IntroRisk.png)
     
 **TestBamTang**
   - Carpeta en la que tenemos los ejercicios resueltos de los propuestos por **Bamtang**.
