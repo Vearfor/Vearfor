@@ -18,8 +18,10 @@
 ### Esto sigue siendo un Borrador ###
 - 
 
+
 **Curriculum**
   - Carpeta en la que mantendremos los curriculums actualizados.
+
 
 **Risk**
   - Aqui dejo los enlaces para los vídeos que he realizado sobre el juego del Risk en OneDrive
@@ -31,6 +33,7 @@
     El juego permitía sustituir los combates con dados por combates 'reales-simulados' entre ejercitos.
         ![Cypher](/ScreenShots/IntroRisk.png)
     
+
 **TestBamTang**
   - Carpeta en la que tenemos los ejercicios resueltos de los propuestos por **Bamtang**.
   - El código estará evolucionado del enlace público que deje para BamTang: ***https://github.com/Vearfor/TestBamTang.git***. Aunque básicamnete es el mismo.
