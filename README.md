@@ -19,8 +19,10 @@
 - 
 
 
+
 **Curriculum**
   - Carpeta en la que mantendremos los curriculums actualizados.
+
 
 
 **Risk**
@@ -33,6 +35,7 @@
     El juego permitía sustituir los combates con dados por combates 'reales-simulados' entre ejercitos.
         ![Cypher](/ScreenShots/IntroRisk.png)
     
+
 
 **TestBamTang**
   - Carpeta en la que tenemos los ejercicios resueltos de los propuestos por **Bamtang**.
