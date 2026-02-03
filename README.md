@@ -15,19 +15,21 @@
   - Si pudiera tener la frase que os convenciera ..., que más os puedo decir.
   - Y antes que volver a probar en un nuevo trabajo que no me llene, que no me satisfaga, quiero probar de una vez por todas a trabajar en/con VideoJuegos.
 
-Esto en principio va a ser un borrador.
-Querremos tener un Portfolio presentable.
-Visitaremos:
-- Plantillas: https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/tree/master/templates 
-- Botones: https://dev.to/enjoy_/150-badges-for-github-pnk
-- Iconos tecnología https://github.com/tandpfun/skill-iconos
-- Emojis https://gist.github.com/rxaviers/7360908
-- ..
+### Esto sigue siendo un Borrador ###
 - 
 
 **Curriculum**
   - Carpeta en la que mantendremos los curriculums actualizados.
 
+**Risk**
+  - Aqui dejo los enlaces para los vídeos que he realizado sobre el juego del Risk en OneDrive
+    [Videos del Risk](https://1drv.ms/f/c/91bf9fad922e9ffc/IgDaUpM5LzdDTpcaf6vt38wCAfBZ5ux-V0hrVOu9zBX0inc?e=knb3Ah)
+
+    Este fue un juego que construi en C con el TurboC de Borland hallá por 1994.
+    El código actualmente no funciona en los ordenadores actuales.
+    Esta en una máquina virtual con Windows-95.
+    El juego permitía sustituir los combates con dados por combates 'reales-simulados' entre ejercitos.
+    
 **TestBamTang**
   - Carpeta en la que tenemos los ejercicios resueltos de los propuestos por **Bamtang**.
   - El código estará evolucionado del enlace público que deje para BamTang: ***https://github.com/Vearfor/TestBamTang.git***. Aunque básicamnete es el mismo.
@@ -74,5 +76,7 @@ Visitaremos:
       Y todo esta agrupado en una única solución: **'TestBamTang.sln'**.
 
 Espero que os aproveche.
+
+
 Hasta pronto.
 
