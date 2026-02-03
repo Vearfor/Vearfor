@@ -25,7 +25,7 @@
   - Aqui dejo los enlaces para los vídeos que he realizado sobre el juego del Risk en OneDrive
     [Videos del Risk](https://1drv.ms/f/c/91bf9fad922e9ffc/IgDaUpM5LzdDTpcaf6vt38wCAfBZ5ux-V0hrVOu9zBX0inc?e=knb3Ah)
 
-    Este fue un juego que construi en C con el TurboC de Borland hallá por 1994.
+    Este fue un juego que construi en C con el TurboC de Borland allá por 1994.
     El código actualmente no funciona en los ordenadores actuales.
     Esta en una máquina virtual con Windows-95.
     El juego permitía sustituir los combates con dados por combates 'reales-simulados' entre ejercitos.
